@@ -1,0 +1,5 @@
+# NOTAS
+
+Ejecutar
+
+```npm install```
